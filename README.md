@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Roy Sylvanus. I am a Mobile & Web App developer with proficiency in Java, Kotlin & Swift code. I have worked on Android & iOS Apps 
+- 👋 Hi, I’m Roy Sylvanus. I am an Android App developer with proficiency in Java & Kotlin code. I have worked on multiple Android Apps 
 - 🌱 I’m currently learning how to integrate financial payment gateways to my mobile applications.
 - 💞️ I’m looking to collaborate on any new projects.
 - 📫 How to reach me. Just mail me on vicevanus@gmail.com
